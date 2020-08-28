@@ -1,2 +1,2 @@
 # object-introspection
-Print details of Python objects
+Print details of provided Python object
